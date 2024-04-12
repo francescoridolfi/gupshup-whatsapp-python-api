@@ -7,8 +7,8 @@ class Main(object):
 
     def run(self):
         url = "https://filemanager.gupshup.io/fm/wamedia/demobot1/e1f59f90-266b-4b06-bbd7-c632cea3074e"
-        self.bot.send_msg("393935875072", url)
-        #self.bot.send_img("393935875072", url, url, "test")
+        self.bot.send_msg("xxxxx", url)
+        #self.bot.send_img("xxxx", url, url, "test")
 
 
 def on_message_received(bot, inboud):
