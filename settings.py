@@ -8,9 +8,9 @@ BASE_DIR = Path(__file__).resolve(strict=True).parent
 # API
 
 API_INFO = {
-    "BOT_NAME": "pankapuzza",
-    "KEY": "0d255125d481452dc51c87c03dc45c51",
-    "NUMBER": "917834811114"
+    "BOT_NAME": "xxxx",
+    "KEY": "XXXXXXXXXXXXX",
+    "NUMBER": "1234567890"
 
 }
 
